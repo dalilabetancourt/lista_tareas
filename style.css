@@ -1,0 +1,74 @@
+body{
+    
+    background: url(image/paisajecampo.jpg) no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.app{
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  padding: 10px;
+  border-radius: 20px;
+  width: 420px;
+  text-align: center;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.3);
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top:  10px;;
+}
+input {
+  padding: 0.8rem;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 0.8rem;
+  border-radius: 10px;
+  border: none;
+  background-color: #0928b0;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+button:hover {
+  transform: scale(1.05);
+  background-color: rgb(118, 118, 230);
+}
+
+#listaTareas {
+  list-style: none;
+  padding: 0;
+  margin-top: 15px;
+}
+
+#listaTareas li {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 15px;
+   margin-bottom: 10px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-align: left;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.tarea-botones {
+  display: flex;
+  gap: 5px;
+  margin-top: 8px;
+}
+
+.tarea-botones button {
+  flex: 1;
+  font-size: 12px;
+  padding: 5px;
+}
