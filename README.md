@@ -6,7 +6,7 @@
 
 #  Lista de Tareas
 
-Aplicación web desarrollada con HTML, CSS y JavaScript puro para gestionar tareas de manera sencilla e interactiva.
+Aplicación web desarrollada con HTML, CSS y JavaScript para gestionar tareas de manera sencilla e interactiva.
 
 ##  Funcionalidades
 
@@ -20,7 +20,7 @@ Aplicación web desarrollada con HTML, CSS y JavaScript puro para gestionar tare
 ##  Tecnologías utilizadas
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript (ES6)
 - Programación Orientada a Objetos
 - LocalStorage
