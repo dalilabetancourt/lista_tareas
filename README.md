@@ -1,4 +1,8 @@
-![Vista previa de la aplicación](image/proyecto_listatareas)
+# 📸 Vista previa de la aplicación
+
+<p align="center">
+  <img src="image/proyecto_listatareas.png" width="600">
+</p>
 
 #  Lista de Tareas
 
@@ -28,6 +32,6 @@ Aplicación web desarrollada con HTML, CSS y JavaScript puro para gestionar tare
 2. Abrir el archivo `index.html` en el navegador
 3. Comenzar a agregar tareas
 
-##  Autor
+
 
 Proyecto académico de práctica en JavaScript.
